@@ -11,7 +11,7 @@ const   express     = require('express'),
         forecast    = require('./utils/forecast');
 
 const app = express();
-const port =
+
 
 //define paths for Express Config
 const publicDirectoryPath = path.join(__dirname, '../public');
